@@ -8,4 +8,5 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "qctgkCLT#hDM_0mJgGAeqYVjxuf_V3FJIkmtxSXGXQdfufa-E4Q4",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://avatars.githubusercontent.com/u/187024208?v=4",
 ALIVE_MSG: process.env.ALIVE_MSG || "Hello i am alive now",
+MODE: process.env.MODE || "public",
 };
