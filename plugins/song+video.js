@@ -39,7 +39,7 @@ let downloadUrl = down.dl_url
 //==========SEND AUDIO===================//
 
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mp3".fileName:data.title + ".mp3",caption:"POWERD BY HIRANYA_SATHSARA 💗"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mp3",fileName:data.title + ".mp3",caption:"POWERD BY HIRANYA_SATHSARA 💗"},{quoted:mek})
 
   
 
@@ -87,7 +87,7 @@ let downloadUrl = down.dl_url
 //==========SEND VIDEO===================//
 
 await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4".fileName:data.title + ".mp4",caption:"POWERD BY HIRANYA_SATHSARA 💗},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"POWERD BY HIRANYA_SATHSARA 💗},{quoted:mek})
 
   
 
