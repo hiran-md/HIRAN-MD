@@ -163,12 +163,17 @@ mek.type === "stickerMessage"
 ) {
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
-//============================================================================ 
+//================================WORK_TYPE=================================== 
+if(!isowner && config.MODE === "private") return
+if(!isowner && isGroup && config.MODE === "inbox") return
+if(!isowner && !isGroup && config.MODE === "groups") return
 
+//============================================================================
+        
 })
 }
 app.get("/", (req, res) => {
-res.send("hey, bot started✅");
+res.send("Hey, HIRAN-MD Bot is Started ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
