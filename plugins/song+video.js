@@ -21,6 +21,7 @@ let desc = `
 *HIRAN-MD YT SONG DONLOADER *🔰
 > title: ${data.title}
 > description: ${data.description}
+> time: ${data.timestamp}
 > ago: ${data.ago}
 > views: ${data.views}
 
@@ -69,6 +70,7 @@ let desc = `
 *HIRAN-MD YT VIDEO DONLOADER *🔰
 > title: ${data.title}
 > description: ${data.description}
+> time: ${data.timestamp}
 > ago: ${data.ago}
 > views: ${data.views}
 
