@@ -54,7 +54,8 @@ ${menu.search}
 
 POWERED BY HIRANYA_SATHSARA 🌝💗
 `
-await conn.sendMessage(from,{text:madeMenu},{quoted:mek)
+await conn.sendMessage(from,{image:{url:"https://avatars.githubusercontent.com/u/187024208?s=400&u=7f44eb70cdc8a3f54b9e2a4b3f1d476492212c60&v=4"},caption:madeMenu},{quoted:mek)
+
 
 }catch(e){
 console.log(e)
