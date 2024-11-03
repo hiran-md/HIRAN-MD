@@ -89,8 +89,7 @@ let downloadUrl = down.dl_url
 //==========SEND VIDEO===================//
 
 await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"POWERD BY HIRANYA_SATHSARA 💗},{quoted:mek})
-
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"POWERD BY HIRANYA_SATHSARA 💗"},{quoted:mek})
   
 
 }catch(e){
