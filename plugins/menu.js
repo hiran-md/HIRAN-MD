@@ -61,3 +61,5 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quo
 }catch(e){
 console.log(e)
 reply(`$(e)`)
+}
+})
