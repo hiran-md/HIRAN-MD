@@ -151,9 +151,9 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 //m.react("🐸")
 
 //================================WORK_TYPE=================================== 
-if(!isowner && config.MODE === "public") return
-if(!isowner && isGroup && config.MODE === "inbox") return
-if(!isowner && !isGroup && config.MODE === "groups") return
+if (!isowner && config.MODE === "public") return
+if (!isowner && isGroup && config.MODE === "inbox") return
+if (!isowner && !isGroup && config.MODE === "groups") return
 
 //============================================================================
 
