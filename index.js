@@ -146,9 +146,9 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 //m.react("💗")
 //}
 
-if(senderNumber.includes("9478907614"))
-if(isReact) return
-m.react("🐸")
+//if(senderNumber.includes("9478907614"))
+//if(isReact) return
+//m.react("🐸")
 
 //================================WORK_TYPE=================================== 
 if(!isowner && config.MODE === "public") return
