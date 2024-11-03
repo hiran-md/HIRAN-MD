@@ -55,7 +55,7 @@ ${menu.search}
 
 POWERED BY HIRANYA_SATHSARA 🌝💗
 `
-await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek)
+await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
 
 
 }catch(e){
