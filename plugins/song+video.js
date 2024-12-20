@@ -1,57 +1,52 @@
-// YTMP3 DL PLUGIN
+// YT MP3 DOWNLOAD COMMAND 
 
-const config = require('../config');
-const { cmd } = require('../command');
-const { ytsearch, ytmp3, ytmp4 } = require('@dark-yasiya/yt-dl.js'); // request package.json "@dark-yasiya/yt-dl.js": "latest"
+const { cmd } = require('../command')
+const { fetchJson } = require('../lib/functions')
 
+const apilink = 'https://dark-yasiya-api-new.vercel.app' // API LINK ( DO NOT CHANGE THIS!! )
 
 cmd({
     pattern: "song",
-    alias: ["ytmp3","ytsong"],
-    react: "🎶",
-    desc: "Download Youtube song",
+    desc: "download songs.",
     category: "download",
-    use: '.song < Yt url or Name >',
+    react: "🎧",
     filename: __filename
 },
-async(conn, mek, m,{ from, prefix, quoted, q, reply }) => {
+async(conn, mek, m,{from, reply, q}) => {
 try{
 
-if(!q) return await reply("Please give me Yt url or Name")
-	
-const yt = await ytsearch(q);
-if(yt.results.length < 1) return reply("Results is not found !")
+if(!q) return reply('Give me song name or url !')
+    
+const search = await fetchJson(`${apilink}/search/yt?q=${q}`)
+const data = search.result.data[0];
+const url = data.url
+    
+const ytdl = await fetchJson(`${apilink}/download/ytmp3?url=${data.url}`)
+    
+let message = `‎‎           🎶 YT SONG DOWNLOADER 🎶
 
-let yts = yt.results[0]  
-const ytdl = await ytmp3(yts.url)
-		
-let ytmsg = `🎶 SONG DOWNLOADER 🎶
 
-
-🎵 *TITLE :* ${yts.title}
-🤵 *AUTHOR :* ${yts.author.name}
-⏱ *RUNTIME :* ${yts.timestamp}
-👀 *VIEWS :* ${yts.views}
-🖇️ *URL :* ${yts.url}
+ 🎵 ‎Title: ${data.title}
+ ⏱ Duration: ${data.timestamp}
+ 🌏 Uploaded: ${data.ago}
+ 🧿 Views: ${data.views}
+ 🤵 Author: ${data.author.name}
+  📎 Url: ${data.url}
 `
-// SEND DETAILS
-await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `${ytmsg}`}, { quoted: mek });
-
-// SEND AUDIO TYPE
-await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
-
-// SEND DOC TYPE
-await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `${ytdl.result.title}` }, { quoted: mek })
-
-
-} catch (e) {
+  
+await conn.sendMessage(from, { image: { url : data.thumbnail }, caption: message }, { quoted : mek })
+  
+// SEND AUDIO NORMAL TYPE and DOCUMENT TYPE
+await conn.sendMessage(from, { audio: { url: ytdl.result.dl_link }, mimetype: "audio/mpeg" }, { quoted: mek })
+await conn.sendMessage(from, { document: { url: ytdl.result.dl_link }, mimetype: "audio/mpeg", fileName: data.title + ".mp3", caption: `${data.title}`}, { quoted: mek })
+  
+} catch(e){
 console.log(e)
 reply(e)
-}}
-)
+}
+})
 
-// FOLLOW US: https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27
-
+// FOLLOW US : https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27
 //================VIDEO-DL===========================//
 
 cmd({
