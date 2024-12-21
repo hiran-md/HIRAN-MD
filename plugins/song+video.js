@@ -49,6 +49,9 @@ reply(e)
 // FOLLOW US : https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27
 //================VIDEO-DL===========================//
 
+const yts = require('yt-search');
+const fg = require('api-dylux');
+
 cmd({
     pattern: "video",
     desc: "download videos",
