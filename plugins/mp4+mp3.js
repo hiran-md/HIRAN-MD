@@ -17,9 +17,9 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ * '-'_NADEEN-MD-MP3_DOWNLOADER_'-' * ]⦁⫸
+⫷⦁[ * '-'_HIRAN-MD-MP3_DOWNLOADER_'-' * ]⦁⫸
 
-🎵 *📼 NADEEN-MD MP3 DOWNLOADER . .⚙️*
+🎵 *📼 HIRAN-MD MP3 DOWNLOADER . .⚙️*
 
 ➥ *Title:* ${data.title} 
 ➥ *Duration:* ${data.timestamp} 
@@ -27,7 +27,7 @@ let desc = `
 ➥ *Uploaded On:* ${data.ago} 
 ➥ *Link:* ${data.url} 
 
-> *©𝗡𝗔𝗗𝗘𝗘𝗡-𝗠𝗗*
+> *©𝗛𝗜𝗥𝗔𝗡-𝗠𝗗*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -65,9 +65,9 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ * '-'_NADEEN-MD-MP4_DOWNLOADER_'-' * ]⦁⫸ 
+⫷⦁[ * '-'_HIRAN-MD-MP4_DOWNLOADER_'-' * ]⦁⫸ 
 
-🎥 *🎞 NADEEN-MD MP4 DOWNLOADER . .⚙️
+🎥 *🎞 HIRAN-MD MP4 DOWNLOADER . .⚙️
 
 ➥ *Title:* ${data.title} 
 ➥ *Duration:* ${data.timestamp} 
@@ -75,7 +75,7 @@ let desc = `
 ➥ *Uploaded On:* ${data.ago} 
 ➥ *Link:* ${data.url} 
 
-> *©𝗡𝗔𝗗𝗘𝗘𝗡-𝗠𝗗*
+> *©𝗛𝗜𝗥𝗔𝗡-𝗠𝗗*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
