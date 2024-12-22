@@ -18,18 +18,18 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS FOR USING +HIRAN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+HIRANYA+SATHSARA;👨‍💻HIRAN-MD-V1👨‍💻​" alt="Typing SVG" /></a>
   </p>
 
-## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/HIRAN-MD/)***
+## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/hiran-md/HIRAN-MD.git)***
 
  ## DEPLOYMENT METHODS
 
-<p align="center">
-<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/' target="_blank"><img alt='Get Your Session' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+/////<p align="center">/////
+/////<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/' target="_blank"><img alt='Get Your Session' /////src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
-<p align="center">
-<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/qr' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-QR Code -darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+/////<p align="center">
+/////<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/qr' target="_blank"><img alt='Pair Code 02' /////src='https://img.shields.io/badge/-QR Code -darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
-<p align="center">
-<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/pair' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+/////<p align="center">
+/////<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/pair' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
   
 ### DEVELOPER:
 **GET In Touch with The Owner**
