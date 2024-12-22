@@ -6,7 +6,7 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 <br>
 <p align="center">  
   <a href="https://files.catbox.moe/2nmi9q.png">
-    <img alt="hiran-md" height="500" src="https://github.com/hiran-md/HIRAN-MD/blob/bc6dd195adc1b53f56e2c1701f6c69d69c85d7ad/my_data/20241206_165508.jpg">
+    <img alt="hiran-md" height="700" src="https://github.com/hiran-md/HIRAN-MD/blob/bc6dd195adc1b53f56e2c1701f6c69d69c85d7ad/my_data/20241206_165508.jpg">
     
   
   </a>
@@ -37,7 +37,7 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 - [**Via WhatsApp**](https://wa.me/94768698018)
 
 ### SPECIAL THANKS ❤ 
-> Hiranya Sathsarq
+> Hiranya Sathsara
 
 ## License
 
