@@ -6,7 +6,7 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 <br>
 <p align="center">  
   <a href="https://files.catbox.moe/2nmi9q.png">
-    <img alt="hiran-md" height="300" src="[(https://avatars.githubusercontent.com/u/187024208?s=400&u=7f44eb70cdc8a3f54b9e2a4b3f1d476492212c60&v=4)">]
+    <img alt="hiran-md" height="300" src="https://github.com/hiran-md/HIRAN-MD/blob/bc6dd195adc1b53f56e2c1701f6c69d69c85d7ad/my_data/20241206_165508.jpg">
     
   
   </a>
@@ -15,7 +15,7 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS FOR USESING +HIRAN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+HIRANYA+SATHSARA;👨‍💻HIRAN-MD-V1👨‍💻​" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS FOR USING +HIRAN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+HIRANYA+SATHSARA;👨‍💻HIRAN-MD-V1👨‍💻​" alt="Typing SVG" /></a>
   </p>
 
 ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/Nadeenpoorna-max/NADEEN-MD/)***
