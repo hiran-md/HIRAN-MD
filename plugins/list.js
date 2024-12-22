@@ -6,16 +6,13 @@ const {runtime} = require('../lib/functions')
 cmd({
     pattern: "list",
     desc: "To get the list.",
-    react: "📄",
+    react: "📁",
     category: "main",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
     
-const voice = {
-    menu: 'media/AUD-20240901-WA0161.mp3'
-}
 
 let menu = {
 main: '',
@@ -39,13 +36,13 @@ menu[commands[i].category] += `.${commands[i].pattern}\n`;
 
 let madeMenu = ` *👋 Hello ${pushname}*
 
-✨ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗡𝗔𝗗𝗘𝗘𝗡-𝗠𝗗! ✨ 
+✨ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗛𝗜𝗥𝗔𝗡-𝗠𝗗! ✨ 
 ╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」
 │◈ ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}
 │◈ ᴏᴡɴᴇʀ ɴᴀᴍᴇ :ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ [ᴅᴀʀᴋ ᴄʏʙᴇʀ ᴍᴀᴛʀɪx]
-│◈ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : 94711451319
+│◈ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : 94768698018
 │◈ ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}
-│◈ ᴠᴇʀꜱɪᴏɴ : 2.0.0
+│◈ ᴠᴇʀꜱɪᴏɴ : 1.0.0
 ╰──────────●●►
 ╭──────────●●►
  📥 *𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐌𝐞𝐧𝐮*
