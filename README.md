@@ -15,7 +15,7 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS FOR USESING +NADEEN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NADEEN+POORNA;👨‍💻💝NADEEN-MD-V2💝👨‍💻​" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F37B8&background=000000&center=true&multiline=true&width=435&lines=Thanks+for+using+HIRAN-MD)](https://git.io/typing-svg)G" /></a>
   </p>
 
 ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/Nadeenpoorna-max/NADEEN-MD/)***
