@@ -37,7 +37,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         conversionInfo += `🔄 *Converted Amount*: ${convertedAmount} ${toCurrency}\n`;
         conversionInfo += `📈 *Exchange Rate*: 1 ${fromCurrency} = ${data.rates[toCurrency]} ${toCurrency}\n
         
-*👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ👨‍💻*
+*👨‍💻𝗛𝗜𝗥𝗔𝗡-𝗠𝗗 𝗖𝗨𝗥𝗥𝗘𝗡𝗖𝗬 𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗢𝗥👨‍💻*
         `;
 
         await conn.sendMessage(from, { text: conversionInfo }, { quoted: mek });
