@@ -20,7 +20,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const data = search.videos[0];
         const url = data.url;
 
-        let desc = `*HIRAN-MD SONG/VIDEO DOWNLOADER . .⚙️*
+        let desc = `*NADEEN-MD SONG/VIDEO DOWNLOADER . .⚙️*
         
 ⚙️ TITLE - ${data.title}
 
