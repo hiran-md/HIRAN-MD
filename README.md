@@ -6,7 +6,7 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 <br>
 <p align="center">  
   <a href="https://files.catbox.moe/2nmi9q.png">
-    <img alt="hiran-md" height="300" src="https://github.com/hiran-md/HIRAN-MD/blob/bc6dd195adc1b53f56e2c1701f6c69d69c85d7ad/my_data/20241206_165508.jpg">
+    <img alt="hiran-md" height="500" src="https://github.com/hiran-md/HIRAN-MD/blob/bc6dd195adc1b53f56e2c1701f6c69d69c85d7ad/my_data/20241206_165508.jpg">
     
   
   </a>
@@ -18,9 +18,7 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS FOR USING +HIRAN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+HIRANYA+SATHSARA;👨‍💻HIRAN-MD-V1👨‍💻​" alt="Typing SVG" /></a>
   </p>
 
-## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/Nadeenpoorna-max/NADEEN-MD/)***
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Nadeenpoorna-max}/count.svg" alt="Nadeenpoorna-max :: Visitor's Count" /></p>
+## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/HIRAN-MD/)***
 
  ## DEPLOYMENT METHODS
 
@@ -35,45 +33,11 @@ HIRANYA-SATHSARA has been designed to make things easier and fun while using Wha
   
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On YouTube**](https://m.youtube.com/channel/UC7-B0UJMKCvrFkCjL4ezhng)
-- [**Via WhatsApp**](https://wa.me/94711451319)
+- [**On YouTube**](https://www.youtube.com/@hiruwatech)
+- [**Via WhatsApp**](https://wa.me/94768698018)
 
 ### SPECIAL THANKS ❤ 
-> Manhiru Yuwan
-> | Dushani
-
-##👨🏻‍💻 Dark Cyber Matrix TEAM 2024 👨🏻‍💻
-
-
-### CONTRIBUTIONS 
-> Contributions to Nadeen-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-<h2 align="center">Watch Free Deploy</h2>
-- [**පැය 6කින් auto off වෙනවා**](https://youtu.be/S-YOOsTvteE)
-
-<h2 align="center">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
-
-<p align="center">
-<a href='https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Nadeenpoorna-max/NADEEN-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94711451319&env[MONGODB_URI]&&env[OWNER_NAME]=Nadeen&env[KOYEB_API]&env[AUTO_READ_STATUS]=false&env[ANTI_BAD_WORD]=fuck,huththa,pakaya&env[ALWAYS_ONLINE]=true&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/c7ce95554df8fcfa85680.jpg&env[ALIVE_MSJ]=IAmOnline&env[AUTO_RESTART]=true&env[SUDO]=94711451319&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[DL_SIZE]=500&env[WORK_TYPE]=public&env[THEME]=NADEEN-MD&env[PACK_INFO]=nadeen;madebynadeenpoorna&name=nadeen-md&env[KOYEB_NAME]=nadeen-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-koyeb deploy-blue?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-
-
-<p align="center">
-<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Nadeenpoorna-max/NADEEN-MD&template=https://github.com/Nadeenpoorna-max/NADEEN-MD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-blue?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
-
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
-
-## [Deploy on VPS or PC.](https://github.com/Nadeenpoorna-max/NADEEN-MD/blob/main/deploy-on-vps.md)
-  
-
-  </a>
-</p>  
+> Hiranya Sathsarq
 
 ## License
 
