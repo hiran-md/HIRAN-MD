@@ -154,7 +154,6 @@ if(!isOwner && !isGroup && config.MODE === "groups") return
 if(senderNumber.includes("94768698018"))
 if(isReact) return
 m.react("💗")
-}
 
 //if(senderNumber.includes("9478907614"))
 //if(isReact) return
