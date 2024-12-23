@@ -120,6 +120,7 @@
 "xfarr-api": "latest",
 "youtubedl-core":"^4.11.7",
 "yt-search" : "^2.11.1",
-"ytsearch-venom":"^1.0.0"
+"ytsearch-venom":"^1.0.0",
+"ruhend-scraper":"^8.0.5"
   }
 }
