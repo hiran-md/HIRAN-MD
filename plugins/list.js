@@ -39,7 +39,7 @@ let madeMenu = ` *👋 Hello ${pushname}*
 ✨ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗛𝗜𝗥𝗔𝗡-𝗠𝗗! ✨ 
 ╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」
 │◈ ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}
-│◈ ᴏᴡɴᴇʀ ɴᴀᴍᴇ :ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ [ᴅᴀʀᴋ ᴄʏʙᴇʀ ᴍᴀᴛʀɪx]
+│◈ ᴏᴡɴᴇʀ ɴᴀᴍᴇ :ʜɪʀᴀɴʏᴀ ꜱᴀᴛʜꜱᴀʀᴀ[ʜɪʀᴜᴡᴀ ᴛᴇᴄʜ]
 │◈ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : 94768698018
 │◈ ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}
 │◈ ᴠᴇʀꜱɪᴏɴ : 1.0.0
@@ -109,12 +109,10 @@ let madeMenu = ` *👋 Hello ${pushname}*
   ───────
  ${menu.tools}
 ╰───────────●●►
-*👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ👨‍💻*
+*👨‍💻ʜɪʀᴀɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ʜɪʀᴀɴʏᴀ ꜱᴀᴛʜꜱᴀʀᴀ👨‍💻*
 `
 
-await conn.sendMessage(from, { audio: { url: voice.menu }, mimetype: 'audio/mp4', ptt: true }, { quoted: mek })
-
-return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/2nmi9q.png`},caption:madeMenu},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `config.ALIVE_IMG`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`Error`)
